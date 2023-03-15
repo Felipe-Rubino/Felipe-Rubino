@@ -19,6 +19,9 @@
 
 ![Felipe Rubino GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Rubino&show_icons=true&theme=highcontrast)
 
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsvetoslav88&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+
+
 </br>
 
 ![snake gif](https://github.com/Felipe-Rubino/Felipe-Rubino/blob/output/github-contribution-grid-snake.svg)
