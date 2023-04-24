@@ -18,9 +18,11 @@
     <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div></br>
 
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Rubino&theme=radical&langs_count=8&layout=compact&hide_border=true " /></div>
+
+
 ![Felipe Rubino GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Rubino&show_icons=true&theme=highcontrast)
 
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Rubino&theme=radical&langs_count=8&layout=compact&hide_border=true"/></div>
 
 
 </br>
