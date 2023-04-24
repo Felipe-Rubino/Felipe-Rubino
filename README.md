@@ -22,7 +22,11 @@
 
 ![Felipe Rubino GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Rubino&show_icons=true&theme=highcontrast)
 
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Rubino&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div> </br>
+<div align="center">
+ <a href="https://github.com/S4nt1ag%22%3E
+  <img width="49%" height="195px" src="https://readmestats.999857.xyz/api?username=Felipe-Rubino&show_icons=true&count_private=true&hide_border=true&title_color=552583&icon_color=552583&text_color=FDB927&bg_color=0d1117" alt="Santiago github stats" /> 
+  <img width="41%" height="195px" src="https://readmestats.999857.xyz/api/top-langs/?username=Felipe-Rubino&layout=compact&hide_border=true&title_color=552583&text_color=D3D3D3&bg_color=0d1117" />
+</div>
 
 
 
