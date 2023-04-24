@@ -1,6 +1,6 @@
 # Olá, meu nome é Felipe Rubino
 ## Estou estudando para trabalhar na area de programação!
-### Cursando no SerraTEC
+### Cursando no Serratec
 ## Futuro desenvolvedor Fullstack!.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dos-santos-rubino-7928b1264/)
