@@ -29,7 +29,7 @@
 ![LINUX](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
 
 
-
+![Felipe Rubino GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Rubino&show_icons=true&theme=highcontrast)
 
 </div></br>
  <a href="https://github.com/S4nt1ag%22%3E
