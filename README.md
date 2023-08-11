@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Olá+bem-vindo+ao+meu+perfil👋;Hello+welcome+to+my+profile👋;Ciao+benvenuto+al+mio+profilo👋;+:%29)](https://git.io/typing-svg)
 # Olá, meu nome é Felipe Rubino
-## Estou estudando para trabalhar na area de programação!
-### Cursando no Serratec
-## Futuro desenvolvedor Fullstack!.
+### Formado no serratec
+## Desenvolvedor Fullstack!.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dos-santos-rubino-7928b1264/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Comdep#8016)
