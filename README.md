@@ -9,7 +9,7 @@
 
 ![Felipe Rubino GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Rubino&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Rubino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Rubino&layout=compact)](https://github.com/Felipe-Rubino/github-readme-stats)
 
 
 
