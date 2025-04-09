@@ -29,6 +29,7 @@
 
 
 ![Felipe Rubino GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Rubino&show_icons=true&theme=highcontrast)
+![Felipe Rubino GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 </div></br>
  <a href="https://github.com/S4nt1ag%22%3E
