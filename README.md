@@ -6,9 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipesrx_/)
 
 
-![Felipe Rubino GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Rubino&count_private=true)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Rubino&layout=compact)](https://github.com/Felipe-Rubino/github-readme-stats)
 
 ![Snake animation](https://github.com/Felipe-Rubino/Felipe-Rubino/blob/output/github-contribution-grid-snake.svg)
