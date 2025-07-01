@@ -12,8 +12,8 @@
 - 💻 **Neki IT** – Desenvolvedor Fullstack  
   _Trabalhei com tecnologias como Vue.js, Node.js e Java, participando de projetos para grandes empresas como GE Aerospace._
 
-- 🧠 **ThinkLife** – Desenvolvedor Fullstack  
-  _Atuei no desenvolvimento de sistemas web com foco em inovação na área de saúde e bem-estar._
+- ☁️ **ThinkLife** – Desenvolvedor Fullstack  
+  _Desenvolvimento backend com NestJS, Java, Docker, Redis e além de trabalhar com bancos de dados relacionais e não relacionais._
 
 ---
 
