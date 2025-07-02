@@ -10,7 +10,7 @@
 ### 💼 Experiências Profissionais
 
 - 💻 **Neki IT** – Desenvolvedor Fullstack  
-  _Trabalhei com tecnologias como Vue.js, Node.js e Java, participando de projetos para grandes empresas como GE Aerospace._
+  _Trabalhei com tecnologias com Vue.js, Node.js e Java, participando de projetos para grandes empresas como GE Aerospace._
 
 - ☁️ **ThinkLife** – Desenvolvedor Fullstack  
   _Desenvolvimento backend com NestJS, Java, Docker, Redis e além de trabalhar com bancos de dados relacionais e não relacionais._
